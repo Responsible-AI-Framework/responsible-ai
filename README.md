@@ -24,9 +24,9 @@ Using **18 established metrics**, the framework computes normalized scores for e
 
 We evaluate three representative model types:
 
-- `XGBoost` – Tree-based ensemble model.  
-- `MLP` – Multi-layer perceptron neural network.  
-- `TabResNet` – Residual neural network adapted for tabular data.  
+- `XGBoost`: Tree-based ensemble model.  
+- `MLP`: Multi-layer perceptron neural network.  
+- `TabResNet`: Residual neural network adapted for tabular data.  
 
 These models are tested on three public tabular datasets:
 
